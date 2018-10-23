@@ -1,1 +1,1 @@
-# test-maven hello wold
+# Mybatis自动生成代码工具
